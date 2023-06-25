@@ -1,0 +1,2 @@
+# PokeKot
+Choose your Pokemon!
